@@ -8,7 +8,7 @@ $ gh idra
 
 ### Installation
 ```
-gh extension install yu1hpa/ghidra
+gh extension install yu1hpa/gh-idra
 ```
 
 ### Licence
